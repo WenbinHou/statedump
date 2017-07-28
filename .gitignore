@@ -1,0 +1,8 @@
+
+# PyCharm meta information directory
+.idea/
+
+
+# Runtime files
+__pycache__/
+*.pyc
